@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youssef Aboalazm - Mechanical Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            max-width: 800px;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .contact-info {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Youssef Ahmed Mohamed Aboalazm</h1>
+    <p><strong>Mechanical Engineer</strong></p>
+    <p class="contact-info">
+        Gharbeya, Egypt | +20 102 015 0228 | yous222ef@gmail.com | Exempted | A32504324
+    </p>
+
+    <div class="section">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Bachelor in Engineering</strong>, Production Engineering and Mechanical Design, Tanta University (2021)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Professional Experience</h2>
+        <h3>MRP Engineer</h3>
+        <p>Elaraby Group | January 2024 – Present</p>
+        <ul>
+            <li>Develop and manage project schedules using specialized software and collaborate with stakeholders.</li>
+            <li>Break down projects into tasks, allocate resources efficiently, and continuously update schedules to reflect changes.</li>
+        </ul>
+        <!-- Add other experiences similarly -->
+    </div>
+
+    <div class="section">
+        <h2>Computer Skills</h2>
+        <ul>
+            <li>Microsoft Office</li>
+            <li>Primavera</li>
+            <li>SolidWorks</li>
+            <li>SAP S/4HANA</li>
+            <li>AutoCAD 2D</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Languages</h2>
+        <ul>
+            <li>English (IELTS B2)</li>
+        </ul>
+    </div>
+</body>
+</html>
